@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>AXA Finance.ipa</key>
+	<key>afione.ipa</key>
 	<array>
 		<dict>
 			<key>architectures</key>
@@ -1119,7 +1119,7 @@
 				<false/>
 			</dict>
 			<key>name</key>
-			<string>AXA Finance.app</string>
+			<string>afione.app</string>
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
